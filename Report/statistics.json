@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 75,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 589.0799999999999,
+    "medianResTime" : 584.0,
+    "minResTime" : 160.0,
+    "maxResTime" : 1119.0,
+    "pct1ResTime" : 950.4000000000001,
+    "pct2ResTime" : 987.2000000000002,
+    "pct3ResTime" : 1119.0,
+    "throughput" : 0.08729090917555482,
+    "receivedKBytesPerSec" : 8.321438961904501,
+    "sentKBytesPerSec" : 0.03303415344112403
+  },
+  "Oultet Landing Page" : {
+    "transaction" : "Oultet Landing Page",
+    "sampleCount" : 38,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 828.6842105263157,
+    "medianResTime" : 865.0,
+    "minResTime" : 560.0,
+    "maxResTime" : 1119.0,
+    "pct1ResTime" : 981.1000000000001,
+    "pct2ResTime" : 1075.3,
+    "pct3ResTime" : 1119.0,
+    "throughput" : 0.04422739398228111,
+    "receivedKBytesPerSec" : 6.274763794436892,
+    "sentKBytesPerSec" : 0.01636931867117631
+  },
+  "Product Page" : {
+    "transaction" : "Product Page",
+    "sampleCount" : 37,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 343.00000000000006,
+    "medianResTime" : 371.0,
+    "minResTime" : 160.0,
+    "maxResTime" : 597.0,
+    "pct1ResTime" : 474.20000000000005,
+    "pct2ResTime" : 506.10000000000014,
+    "pct3ResTime" : 597.0,
+    "throughput" : 0.04394294068534361,
+    "receivedKBytesPerSec" : 2.0884715305415313,
+    "sentKBytesPerSec" : 0.01700515720883942
+  }
+}

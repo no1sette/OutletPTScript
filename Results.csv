@@ -1,0 +1,76 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1658793851682,900,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145064,379,1,1,https://www.webstaurantstore.com/outlet.html,752,0,53
+1658793868098,376,Product Page,200,OK,Thread Group 1-1,text,true,,46980,398,1,1,https://www.webstaurantstore.com/outlet/185WTR72AFHC/56033.html,376,0,0
+1658793888090,911,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145326,379,1,1,https://www.webstaurantstore.com/outlet.html,738,0,0
+1658793899611,240,Product Page,200,OK,Thread Group 1-1,text,true,,48405,398,1,1,https://www.webstaurantstore.com/outlet/415KML325MAJ/55903.html,240,0,0
+1658793909087,858,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145220,379,1,1,https://www.webstaurantstore.com/outlet.html,711,0,0
+1658793932649,407,Product Page,200,OK,Thread Group 1-1,text,true,,42500,395,1,1,https://www.webstaurantstore.com/outlet/922VBBE3F/55809.html,407,0,31
+1658793936766,899,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145221,379,1,1,https://www.webstaurantstore.com/outlet.html,746,0,0
+1658793939191,421,Product Page,200,OK,Thread Group 1-1,text,true,,42929,396,1,1,https://www.webstaurantstore.com/outlet/177CAG60TG/55085.html,420,0,0
+1658793948693,944,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145115,379,1,1,https://www.webstaurantstore.com/outlet.html,792,0,0
+1658793952517,408,Product Page,200,OK,Thread Group 1-1,text,true,,46386,395,1,1,https://www.webstaurantstore.com/outlet/177GMIX10/56085.html,407,0,0
+1658793963141,966,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145220,379,1,1,https://www.webstaurantstore.com/outlet.html,811,0,0
+1658793973099,408,Product Page,200,OK,Thread Group 1-1,text,true,,44625,394,1,1,https://www.webstaurantstore.com/outlet/720B530S/56071.html,407,0,0
+1658793979281,938,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145070,379,1,1,https://www.webstaurantstore.com/outlet.html,775,0,0
+1658793980865,375,Product Page,200,OK,Thread Group 1-1,text,true,,43014,396,1,1,https://www.webstaurantstore.com/outlet/177CAG60TG/55085.html,374,0,0
+1658794009685,663,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145110,379,1,1,https://www.webstaurantstore.com/outlet.html,622,0,42
+1658794032141,483,Product Page,200,OK,Thread Group 1-1,text,true,,64377,395,1,1,https://www.webstaurantstore.com/outlet/178A49RHC/56055.html,479,0,0
+1658794040377,590,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145325,379,1,1,https://www.webstaurantstore.com/outlet.html,537,0,0
+1658794047628,429,Product Page,200,OK,Thread Group 1-1,text,true,,54894,397,1,1,https://www.webstaurantstore.com/outlet/178GDC15HCB/55941.html,425,0,0
+1658794048697,1073,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145856,379,1,1,https://www.webstaurantstore.com/outlet.html,687,0,0
+1658794051994,230,Product Page,200,OK,Thread Group 1-1,text,true,,42630,395,1,1,https://www.webstaurantstore.com/outlet/922VBBE3F/55269.html,229,0,0
+1658794067255,681,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145046,379,1,1,https://www.webstaurantstore.com/outlet.html,660,0,0
+1658794080446,597,Product Page,200,OK,Thread Group 1-1,text,true,,67977,398,1,1,https://www.webstaurantstore.com/outlet/600S3101412G/55569.html,583,0,37
+1658794087630,560,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145146,379,1,1,https://www.webstaurantstore.com/outlet.html,507,0,0
+1658794115621,200,Product Page,200,OK,Thread Group 1-1,text,true,,46905,395,1,1,https://www.webstaurantstore.com/outlet/447APST48/55933.html,199,0,0
+1658794123103,1119,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145324,379,1,1,https://www.webstaurantstore.com/outlet.html,740,0,0
+1658794132100,160,Product Page,200,OK,Thread Group 1-1,text,true,,44514,397,1,1,https://www.webstaurantstore.com/outlet/351CPGWOKNG/54501.html,159,0,0
+1658794135485,648,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145047,379,1,1,https://www.webstaurantstore.com/outlet.html,632,0,0
+1658794137784,275,Product Page,200,OK,Thread Group 1-1,text,true,,44324,397,1,1,https://www.webstaurantstore.com/outlet/194BIN23022/56077.html,274,0,0
+1658794142715,618,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145092,379,1,1,https://www.webstaurantstore.com/outlet.html,571,0,39
+1658794162548,296,Product Page,200,OK,Thread Group 1-1,text,true,,45068,394,1,1,https://www.webstaurantstore.com/outlet/177EG36N/56067.html,296,0,0
+1658794193739,584,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145422,379,1,1,https://www.webstaurantstore.com/outlet.html,541,0,0
+1658794199354,179,Product Page,200,OK,Thread Group 1-1,text,true,,47868,396,1,1,https://www.webstaurantstore.com/outlet/178A49RGHC/56087.html,178,0,0
+1658794205931,957,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145053,379,1,1,https://www.webstaurantstore.com/outlet.html,806,0,68
+1658794214243,417,Product Page,200,OK,Thread Group 1-1,text,true,,43136,396,1,1,https://www.webstaurantstore.com/outlet/185SR1HC1S/56019.html,415,0,0
+1658794224055,1036,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145646,379,1,1,https://www.webstaurantstore.com/outlet.html,784,0,0
+1658794276280,215,Product Page,200,OK,Thread Group 1-1,text,true,,53797,397,1,1,https://www.webstaurantstore.com/outlet/600EBT2436D/55425.html,214,0,59
+1658794293686,675,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,146129,379,1,1,https://www.webstaurantstore.com/outlet.html,638,0,0
+1658794295255,227,Product Page,200,OK,Thread Group 1-1,text,true,,51774,398,1,1,https://www.webstaurantstore.com/outlet/351GTCPG72NL/55915.html,226,0,0
+1658794333343,615,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145473,379,1,1,https://www.webstaurantstore.com/outlet.html,597,0,0
+1658794340291,288,Product Page,200,OK,Thread Group 1-1,text,true,,47955,398,1,1,https://www.webstaurantstore.com/outlet/185SE7230MHA/56021.html,288,0,28
+1658794343988,797,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145423,379,1,1,https://www.webstaurantstore.com/outlet.html,608,0,0
+1658794354925,228,Product Page,200,OK,Thread Group 1-1,text,true,,43387,396,1,1,https://www.webstaurantstore.com/outlet/178CBE84HC/55921.html,228,0,0
+1658794370851,964,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145068,379,1,1,https://www.webstaurantstore.com/outlet.html,805,0,0
+1658794382373,248,Product Page,200,OK,Thread Group 1-1,text,true,,47027,398,1,1,https://www.webstaurantstore.com/outlet/178GDC49FHCW/55947.html,248,0,0
+1658794386295,738,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145219,379,1,1,https://www.webstaurantstore.com/outlet.html,588,0,0
+1658794405796,496,Product Page,200,OK,Thread Group 1-1,text,true,,58770,398,1,1,https://www.webstaurantstore.com/outlet/351CRCPG48NL/55579.html,492,0,28
+1658794409791,925,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145231,379,1,1,https://www.webstaurantstore.com/outlet.html,780,0,0
+1658794416991,394,Product Page,200,OK,Thread Group 1-1,text,true,,48030,396,1,1,https://www.webstaurantstore.com/outlet/178CBE72HC/55945.html,394,0,0
+1658794420213,747,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145023,379,1,1,https://www.webstaurantstore.com/outlet.html,590,0,0
+1658794427038,211,Product Page,200,OK,Thread Group 1-1,text,true,,44079,396,1,1,https://www.webstaurantstore.com/outlet/178CBE48HC/55883.html,211,0,0
+1658794427391,740,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145266,379,1,1,https://www.webstaurantstore.com/outlet.html,583,0,0
+1658794428378,379,Product Page,200,OK,Thread Group 1-1,text,true,,45196,398,1,1,https://www.webstaurantstore.com/outlet/178GDICE24FB/54465.html,379,0,0
+1658794438172,877,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145500,379,1,1,https://www.webstaurantstore.com/outlet.html,715,0,0
+1658794453302,385,Product Page,200,OK,Thread Group 1-1,text,true,,45352,395,1,1,https://www.webstaurantstore.com/outlet/554CHAR60/56073.html,385,0,0
+1658794476193,872,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145231,379,1,1,https://www.webstaurantstore.com/outlet.html,724,0,23
+1658794482481,364,Product Page,200,OK,Thread Group 1-1,text,true,,44777,398,1,1,https://www.webstaurantstore.com/outlet/178GDICE24FB/55705.html,364,0,0
+1658794500602,946,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145362,379,1,1,https://www.webstaurantstore.com/outlet.html,782,0,0
+1658794510330,367,Product Page,200,OK,Thread Group 1-1,text,true,,43308,396,1,1,https://www.webstaurantstore.com/outlet/178CBE84HC/55921.html,367,0,0
+1658794511953,848,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145368,379,1,1,https://www.webstaurantstore.com/outlet.html,702,0,0
+1658794529539,222,Product Page,200,OK,Thread Group 1-1,text,true,,53384,398,1,1,https://www.webstaurantstore.com/outlet/178SSPT60MHC/55937.html,221,0,0
+1658794535306,881,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145193,379,1,1,https://www.webstaurantstore.com/outlet.html,730,0,0
+1658794540551,364,Product Page,200,OK,Thread Group 1-1,text,true,,67908,398,1,1,https://www.webstaurantstore.com/outlet/600S3101412G/55199.html,359,0,52
+1658794543125,725,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145076,379,1,1,https://www.webstaurantstore.com/outlet.html,583,0,0
+1658794563914,403,Product Page,200,OK,Thread Group 1-1,text,true,,43511,392,1,1,https://www.webstaurantstore.com/outlet/378SM1/56069.html,402,0,0
+1658794567970,802,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145276,379,1,1,https://www.webstaurantstore.com/outlet.html,657,0,0
+1658794570537,364,Product Page,200,OK,Thread Group 1-1,text,true,,43134,396,1,1,https://www.webstaurantstore.com/outlet/185SR1HC1S/56019.html,364,0,0
+1658794588058,856,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145358,379,1,1,https://www.webstaurantstore.com/outlet.html,714,0,0
+1658794598472,371,Product Page,200,OK,Thread Group 1-1,text,true,,50913,397,1,1,https://www.webstaurantstore.com/outlet/415AM50BAJA/55965.html,371,0,0
+1658794601162,975,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145103,379,1,1,https://www.webstaurantstore.com/outlet.html,836,0,60
+1658794605609,384,Product Page,200,OK,Thread Group 1-1,text,true,,44943,394,1,1,https://www.webstaurantstore.com/outlet/177EG36N/56067.html,384,0,0
+1658794661040,920,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145140,379,1,1,https://www.webstaurantstore.com/outlet.html,758,0,0
+1658794701551,408,Product Page,200,OK,Thread Group 1-1,text,true,,47904,396,1,1,https://www.webstaurantstore.com/outlet/178A49RGHC/56087.html,407,0,33
+1658794708681,935,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145263,379,1,1,https://www.webstaurantstore.com/outlet.html,786,0,0
+1658794709627,472,Product Page,200,OK,Thread Group 1-1,text,true,,59018,395,1,1,https://www.webstaurantstore.com/outlet/178SS2RHC/55907.html,461,0,0
+1658794710171,707,Oultet Landing Page,200,OK,Thread Group 1-1,text,true,,145637,379,1,1,https://www.webstaurantstore.com/outlet.html,575,0,0
